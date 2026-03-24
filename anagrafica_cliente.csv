@@ -1,0 +1,16 @@
+ID_Contatore,Citta,Tipo_Tariffa
+C_001,Pavia,Fissa
+C_002,Milno,Variabile
+C_003,Paviaa,Fissa
+C_004,Roma,Variabile!
+C_005,Milano,Fissa
+C_006,Pavia,Variabile
+C_007,Milano,Fissa
+C_008,Roma,Variabile
+C_009,Napoli,Fissa
+C_010,Napoli,Variabile
+C_011,torino,Fissa
+C_012,Torino,Variabile
+C_013,Genova,Fissa
+C_014,Genova,Variabile
+C_015,Bologna,Fissa
