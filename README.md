@@ -19,4 +19,5 @@ Il dataset simulato riflette le sfide reali dei database energetici:
 ## 📊 Analisi Prodotte
 1. **Consumo Mensile per Città:** Analisi aggregata per identificare i mercati geografici con maggiore prelievo energetico.
 3. **Data Visualization:** Grafici a barre e linee per comunicare immediatamente i trend stagionali del 2023.
+4. 
 ![Grafico Consumi 2023](output_grafico_consumi.png)
